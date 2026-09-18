@@ -120,7 +120,7 @@
 			mainGroup = A8A0E6F8305D94BD0016F094;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
-				B1000003305D94BD0016F094 /* XCLocalSwiftPackageReference "../../../Downloads/PremiumKit" */,
+				B1000003305D94BD0016F094 /* XCLocalSwiftPackageReference "PremiumKit" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = A8A0E702305D94BD0016F094 /* Products */;
@@ -397,16 +397,16 @@
 /* End XCConfigurationList section */
 
 /* Begin XCLocalSwiftPackageReference section */
-		B1000003305D94BD0016F094 /* XCLocalSwiftPackageReference "../../../Downloads/PremiumKit" */ = {
+		B1000003305D94BD0016F094 /* XCLocalSwiftPackageReference "PremiumKit" */ = {
 			isa = XCLocalSwiftPackageReference;
-			relativePath = ../../../Downloads/PremiumKit;
+			relativePath = PremiumKit;
 		};
 /* End XCLocalSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
 		B1000002305D94BD0016F094 /* PremiumKit */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = B1000003305D94BD0016F094 /* XCLocalSwiftPackageReference "../../../Downloads/PremiumKit" */;
+			package = B1000003305D94BD0016F094 /* XCLocalSwiftPackageReference "PremiumKit" */;
 			productName = PremiumKit;
 		};
 /* End XCSwiftPackageProductDependency section */

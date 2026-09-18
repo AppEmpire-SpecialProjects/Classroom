@@ -4,3 +4,5 @@ xcuserdata/
 *.xcscmblueprint
 .aigenerator/
 memory/
+PremiumKit/.build/
+PremiumKit/.swiftpm/
