@@ -290,7 +290,7 @@
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Classroom/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Classroom Study Expert";
+				INFOPLIST_KEY_CFBundleDisplayName = "SPE: Classroom Study Expert";
 				INFOPLIST_KEY_NSCalendarsFullAccessUsageDescription = "Classroom Expert can export your weekly schedule to Apple Calendar when you choose to enable it.";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
@@ -340,7 +340,7 @@
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Classroom/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Classroom Study Expert";
+				INFOPLIST_KEY_CFBundleDisplayName = "SPE: Classroom Study Expert";
 				INFOPLIST_KEY_NSCalendarsFullAccessUsageDescription = "Classroom Expert can export your weekly schedule to Apple Calendar when you choose to enable it.";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
