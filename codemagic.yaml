@@ -2,17 +2,17 @@ workflows:
  ios-workflow:
     name: iOS Workflow
     integrations:
-      app_store_connect: Classroomsp280ApiKey
+      app_store_connect: ScheduleasproSpcl280APIKey
     environment:
       ios_signing:
         distribution_type: app_store
-        bundle_identifier: Classroom.app.teach
+        bundle_identifier: Scheduleassistant.pro
       xcode: latest
       vars:
         XCODE_PROJECT: "Classroom.xcodeproj"
         XCODE_SCHEME: "Classroom"
-        BUNDLE_ID: "Classroom.app.teach"
-        APP_STORE_APP_ID: 6813565320
+        BUNDLE_ID: "Scheduleassistant.pro"
+        APP_STORE_APP_ID: 6815650631
     scripts:
       - name: Set up provisioning profiles settings on Xcode project
         script: xcode-project use-profiles

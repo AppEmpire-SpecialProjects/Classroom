@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A8A084CC305DDA2400031DB4 /* codemagic.yaml in Resources */ = {isa = PBXBuildFile; fileRef = A8A084CB305DDA2400031DB4 /* codemagic.yaml */; };
 		A8A084CE305DDACA00031DB4 /* binary_parser.sh in Resources */ = {isa = PBXBuildFile; fileRef = A8A084CD305DDACA00031DB4 /* binary_parser.sh */; };
 		B1000001305D94BD0016F094 /* PremiumKit in Frameworks */ = {isa = PBXBuildFile; productRef = B1000002305D94BD0016F094 /* PremiumKit */; };
 /* End PBXBuildFile section */
@@ -138,7 +137,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				A8A084CE305DDACA00031DB4 /* binary_parser.sh in Resources */,
-				A8A084CC305DDA2400031DB4 /* codemagic.yaml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -290,8 +288,8 @@
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Classroom/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Nikki Your Classroom Expert";
-				INFOPLIST_KEY_NSCalendarsFullAccessUsageDescription = "Classroom Expert can export your weekly schedule to Apple Calendar when you choose to enable it.";
+				INFOPLIST_KEY_CFBundleDisplayName = "Schedule assistant pro";
+				INFOPLIST_KEY_NSCalendarsFullAccessUsageDescription = "Schedule assistant pro can export your weekly schedule to Apple Calendar when you choose to enable it.";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -305,8 +303,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 26.3;
-				MARKETING_VERSION = 1.1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Classroom.app.teach;
+				MARKETING_VERSION = 1.1.1;
+				PRODUCT_BUNDLE_IDENTIFIER = Scheduleassistant.pro;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
@@ -340,8 +338,8 @@
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Classroom/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Nikki Your Classroom Expert";
-				INFOPLIST_KEY_NSCalendarsFullAccessUsageDescription = "Classroom Expert can export your weekly schedule to Apple Calendar when you choose to enable it.";
+				INFOPLIST_KEY_CFBundleDisplayName = "Schedule assistant pro";
+				INFOPLIST_KEY_NSCalendarsFullAccessUsageDescription = "Schedule assistant pro can export your weekly schedule to Apple Calendar when you choose to enable it.";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -355,8 +353,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 26.3;
-				MARKETING_VERSION = 1.1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Classroom.app.teach;
+				MARKETING_VERSION = 1.1.1;
+				PRODUCT_BUNDLE_IDENTIFIER = Scheduleassistant.pro;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;

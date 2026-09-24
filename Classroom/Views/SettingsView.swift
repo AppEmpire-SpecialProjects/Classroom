@@ -16,7 +16,7 @@ struct SettingsView: View {
     @State private var legalDocument: LegalDocumentView.Document?
     @State private var isPremiumActive = false
 
-    private let shareURL = URL(string: "https://apps.apple.com/apps/id6813565320")!
+    private let shareURL = URL(string: "https://apps.apple.com/apps/id6815650631")!
 
     init(viewModel: AppViewModel) {
         self.viewModel = viewModel
@@ -287,7 +287,7 @@ struct SettingsView: View {
     }
 
     private func openAppStoreReview() {
-        let url = URL(string: "itms-apps://itunes.apple.com/app/id6813565320?action=write-review")!
+        let url = URL(string: "itms-apps://itunes.apple.com/app/id6815650631?action=write-review")!
         if UIApplication.shared.canOpenURL(url) {
             UIApplication.shared.open(url)
         } else {
